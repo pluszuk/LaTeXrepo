@@ -1,1 +1,16 @@
-*~(ignorowanie plików zakończonych~)
+# ignorowanie plikow zakonczonych ~ oraz ##
+*~
+\#*\#
+
+
+
+#ignorowanie plikow posrednich LateXa
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.out
+*.toc
+*.tps
+*.tcp
